@@ -3,6 +3,19 @@
 		{
 			"talk": [
 				{
+					"title": "tst",
+					"type": "Workshop",
+					"video": "fsafdsfds",
+					"slides": "fdsfd"
+				}
+			],
+			"city": "fdsfsdf",
+			"country": "as",
+			"comment": "fsdfsdafsdffdfasfd"
+		},
+		{
+			"talk": [
+				{
 					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
